@@ -1064,7 +1064,7 @@ img.displayed {
     }
 
     .navbar-inverse .navbar-nav > li {
-        border-bottom: 1px solid #bd502f;
+        border-bottom: 1px solid #1e50a2;
     }
 
     .navbar-inverse .navbar-nav > li:hover {
@@ -1258,7 +1258,7 @@ img.displayed {
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #bd502f;
+    background-color: #1e50a2;
 }
 
 .homeservices1 {
