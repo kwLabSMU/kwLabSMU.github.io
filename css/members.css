@@ -3,11 +3,13 @@
   font-weight: bold;
 }
 
-.member-teacher {
+.member-teacher,
+.member-student {
   display: flex;
 }
 
-.member-teacher-name {
+.member-teacher-name,
+.member-student-left {
   flex: 0 0 75px;
   display: flex;
   align-items: center;
