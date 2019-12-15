@@ -1,0 +1,33 @@
+.member-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.member-teacher {
+  display: flex;
+}
+
+.member-teacher-name {
+  flex: 0 0 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 18px;
+  font-weight: bold;
+}
+
+.member-teacher-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.member-teacher-content {
+  padding-left: 20px;
+}
+
+.member-teacher-content p {
+  margin: 0;
+  padding: 0;
+  text-indent: 2em;
+}
