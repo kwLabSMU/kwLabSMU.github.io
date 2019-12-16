@@ -20,16 +20,34 @@
 
 .member-teacher-img {
   display: flex;
+  flex: 0 0 120px;
   align-items: center;
   justify-content: center;
+  padding: 0 5px;
 }
 
 .member-teacher-content {
-  padding-left: 20px;
+  padding-left: 15px;
 }
 
 .member-teacher-content p {
   margin: 0;
   padding: 0;
   text-indent: 2em;
+}
+
+.member-student-img,
+.member-student-text {
+  display: inline-block;
+  width: 120px;
+  padding: 0 5px;
+}
+.member-student-text {
+  vertical-align: middle;
+  text-align: center;
+}
+.member-work {
+  background: rgba(167, 232, 255);
+  padding: 2px 0;
+  margin: 2px 0;
 }
